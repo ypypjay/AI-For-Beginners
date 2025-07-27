@@ -22,4 +22,3 @@ dependencies:
   - pytorch::torchdata=0.3.0
   - pip:
     - -r requirements.txt
-    - --default-timeout=120
